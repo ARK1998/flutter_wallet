@@ -5,7 +5,10 @@ A clean, modern wallet UI built with Flutter — comes with polished Light and D
 UI credit — eWalle on UpLabs
 
 Preview
-<p align="center"> <img src="assets/light.png" alt="Light theme preview" width="320" style="margin-right:12px;"> <img src="assets/dark.png" alt="Dark theme preview" width="320"> </p> <p align="left"> <img src="https://profile-counter.glitch.me/flutter_wallet/count.svg" alt="Views counter" align="left"> </p>
+![Banner](assets/light.png)
+ 
+![Banner](assets/dark.png)
+
 ✨ Highlights
 
 Beautiful, minimal wallet UI components (cards, balances, transactions)
